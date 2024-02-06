@@ -4,12 +4,20 @@
 **A developer in too many domains** and the founder of
 [Pimous dev.](https://www.pimous.dev) development studio.
 
-See my personnal [Pimous dev.](https://www.pimous.dev) projects my in pinned
+See my personnal [Pimous dev.](https://www.pimous.dev) projects in my pinned
 repositories/gists.
 
 **My everydays IDE :**
 
 <a href="https://code.visualstudio.com/"><img src="https://cdn.simpleicons.org/visualstudiocode" height="48" width="48"/></a>
+
+<a href="https://www.buymeacoffee.com/Xibitol">
+	<img 
+		src="https://img.buymeacoffee.com/button-api/?text=Buy me a byte&slug=Xibitol&button_colour=ff9800&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00"
+		height="40px"
+		alt="Buy me a coffee button."
+	/>
+</a>
 </div>
 
 ## Other projects
@@ -28,7 +36,8 @@ repositories/gists.
 		<img src="https://cdn.simpleicons.org/debian" height="48" width="48" alt="Debian logo."/>&nbsp;&nbsp;
 		<img src="https://cdn.simpleicons.org/gnubash" height="48" width="48" alt="GNU bash logo."/>&nbsp;&nbsp;
 		<img src="https://cdn.simpleicons.org/windows" height="48" width="48" alt="Windows logo."/>&nbsp;&nbsp;
-		<img src="https://cdn.simpleicons.org/ionos" height="48" width="48" alt="IONOS logo."/>
+		<img src="https://cdn.simpleicons.org/ionos" height="48" width="48" alt="IONOS logo."/>&nbsp;&nbsp;
+		<img src="https://cdn.simpleicons.org/sqlite" height="48" width="48" alt="SQLite logo."/>
 	</div>
 	<div>
 		<h3>Softwares</h3>
@@ -63,7 +72,6 @@ repositories/gists.
 		<img src="https://cdn.simpleicons.org/javascript" height="48" width="48" alt="Javascript icon."/>&nbsp;&nbsp;
 		<img src="https://cdn.simpleicons.org/php" height="48" width="48" alt="PHP logo."/>&nbsp;&nbsp;
 		<img src="https://cdn.simpleicons.org/apache" height="48" width="48" alt="Apache logo."/>&nbsp;&nbsp;
-		<img src="https://cdn.simpleicons.org/sqlite" height="48" width="48" alt="SQLite logo."/>
 	</div>
 </div>
 
@@ -87,11 +95,3 @@ repositories/gists.
 		/>
 	</a>
 </div>
-
-## Donation
-<a href="https://www.buymeacoffee.com/Xibitol">
-	<img 
-		src="https://img.buymeacoffee.com/button-api/?text=Buy me a byte&emoji=🖥️&slug=Xibitol&button_colour=ff9800&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00"
-		alt="Buy me a coffee button."
-	/>
-</a>
