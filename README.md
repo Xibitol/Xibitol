@@ -2,10 +2,10 @@
 
 # Xibitol
 **A developer in too many domains** and the founder of
-[Pimous dev.](https://www.pimous.dev) development studio.
+[Pimous dev.](https://www.pimous.dev) development studio<br>(We are on [github.com/PimousDev](https://www.github.com/PimousDev) as well).
 
 See my personnal [Pimous dev.](https://www.pimous.dev) projects in my pinned
-repositories/gists.
+repositories/gists and projects I worked on at [Pimous dev. Github organization](https://www.github.com/PimousDev).
 
 **My everydays IDE :**
 
