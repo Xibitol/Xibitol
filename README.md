@@ -4,6 +4,8 @@
 **A developer in too many domains** and the founder of
 [Pimous dev.](https://www.pimous.dev) development studio<br>(We are on [github.com/PimousDev](https://www.github.com/PimousDev) as well).
 
+<a href="https://www.codewars.com/users/Xibitol"><img src="https://www.codewars.com/users/Xibitol/badges/micro" alt="Codewars stats." height="25px"></a>
+
 See my personnal [Pimous dev.](https://www.pimous.dev) projects in my pinned
 repositories/gists and projects I worked on at [Pimous dev. Github organization](https://www.github.com/PimousDev).
 
@@ -53,5 +55,5 @@ repositories/gists and projects I worked on at [Pimous dev. Github organization]
 ## Statistics
 <div align="center">
 	<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Xibitol&mode=weekly&hide_current_streak=true&hide_longest_streak=true&card_width=192&theme=gruvbox-duo&background=ffffff&border=e4e2e2" alt="GitHub Streak."/></a>
-	<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Xibitol&hide=prs&show=prs_merged&show_icons=true&card_width=448&theme=gruvbox&bg_color=ffffff" alt="Stats"/></a>
+	<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Xibitol&hide=prs&show=prs_merged&show_icons=true&card_width=448&theme=gruvbox&bg_color=ffffff" alt="Stats."/></a>
 </div>
