@@ -7,10 +7,11 @@
 See my personnal [Pimous dev.](https://www.pimous.dev) projects in my pinned
 repositories/gists and projects I worked on at [Pimous dev. Github organization](https://www.github.com/PimousDev).
 
-**My everydays IDE :**
+**My everyday softwares :**
 
 <a href="https://code.visualstudio.com/"><img src="https://cdn.simpleicons.org/visualstudiocode" height="48" width="48" alt="Visual Studio code logo."/></a>&nbsp;&nbsp;
-<a href="https://notion.so/"><img src="https://cdn.simpleicons.org/notion" height="48" width="48" alt="Notion logo."/></a>
+<a href="https://notion.so/"><img src="https://cdn.simpleicons.org/notion" height="48" width="48" alt="Notion logo."/></a>&nbsp;&nbsp;
+<a href="https://www.figma.com/"><img src="https://cdn.simpleicons.org/figma" height="48" width="48" alt="Figma logo."/></a>
 
 <a href="https://www.buymeacoffee.com/Xibitol"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a byte&slug=Xibitol&button_colour=ff9800&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00" height="40px" alt="Buy me a coffee button."/></a>
 </div>
