@@ -1,13 +1,11 @@
 <div align="center">
 
 # Xibitol
-**A developer in too many domains** and the founder of
-[Pimous dev.](https://www.pimous.dev) development studio<br>(We are on [github.com/PimousDev](https://www.github.com/PimousDev) as well).
+**A developer in too many domains** and the founder of [Pimous dev.](https://www.pimous.dev) development studio<br>(We are on [github.com/PimousDev](https://www.github.com/PimousDev) as well).
 
 <a href="https://www.codewars.com/users/Xibitol"><img src="https://www.codewars.com/users/Xibitol/badges/micro" alt="Codewars stats." height="25px"></a>
 
-See my personnal [Pimous dev.](https://www.pimous.dev) projects in my pinned
-repositories/gists and projects I worked on at [Pimous dev. Github organization](https://www.github.com/PimousDev).
+See my personnal [Pimous dev.](https://www.pimous.dev) projects in my pinned repositories/gists and projects I worked on at [Pimous dev. Github organization](https://www.github.com/PimousDev).
 
 **My everyday softwares :**
 
@@ -19,10 +17,8 @@ repositories/gists and projects I worked on at [Pimous dev. Github organization]
 </div>
 
 ## Other projects
+- Founder and Developer at [SBP Games](https://pimous.dev).
 - Director and Developer at [SBP Games](https://sbpgames.fr).
-- Developer at
-[iFive Community](https://discord.gg/KmejCeJDc3) for the sub-project
-[iFive Secours RP](https://discord.gg/x6YSCdtMNH).
 
 
 ## What I do and work with
