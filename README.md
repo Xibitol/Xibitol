@@ -17,7 +17,7 @@ See my personnal [Pimous dev.](https://www.pimous.dev) projects in my pinned rep
 </div>
 
 ## Other projects
-- Founder and Developer at [SBP Games](https://pimous.dev).
+- Founder and Developer at [Pimous Dev.](https://pimous.dev).
 - Director and Developer at [SBP Games](https://sbpgames.fr).
 
 
