@@ -40,6 +40,8 @@ See my personnal [Pimous dev.](https://www.pimous.dev) projects in my pinned rep
 <a href="https://developer.mozilla.org/fr/docs/Web/CSS"><img src="https://cdn.simpleicons.org/css3" height="48" width="48" alt="CSS 3 logo."/></a>&nbsp;&nbsp;
 <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript"><img src="https://cdn.simpleicons.org/javascript" height="48" width="48" alt="Javascript icon."/></a>&nbsp;&nbsp;
 <a href="https://www.typescriptlang.org"><img src="https://cdn.simpleicons.org/typescript" height="48" width="48" alt="Typescript icon."/></a>&nbsp;&nbsp;
+<a href="https://www.npmjs.com"><img src="https://cdn.simpleicons.org/node.js" height="48" width="48" alt="Node.js icon."/></a>&nbsp;&nbsp;
+<a href="https://nodejs.org"><img src="https://cdn.simpleicons.org/npm" height="48" width="48" alt="NPM icon."/></a>&nbsp;&nbsp;
 <a href="https://www.opengl.org"><img src="https://cdn.simpleicons.org/opengl" height="48" width="48" alt="OpenGL logo."/></a>&nbsp;&nbsp;
 <a href="https://www.vulkan.org"><img src="https://cdn.simpleicons.org/vulkan" height="48" width="48" alt="Vulkan logo."/></a>&nbsp;&nbsp;
 <a href="https://www.spigotmc.org/cur"><img src="https://cdn.simpleicons.org/spigotmc" height="48" width="48" alt="SpigotMC logo."/></a>&nbsp;&nbsp;
