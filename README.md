@@ -5,7 +5,7 @@
 
 <a href="https://www.codewars.com/users/Xibitol"><img src="https://www.codewars.com/users/Xibitol/badges/micro" alt="Codewars stats." height="25px"></a>
 
-See my personnal [Pimous dev.](https://www.pimous.dev) projects in my pinned repositories/gists and projects I worked on at [Pimous dev. Github organization](https://www.github.com/PimousDev).
+See my personnal projects in my repositories/gists and projects I worked on at [Pimous dev. Github organization](https://www.github.com/PimousDev).
 
 **My everyday softwares :**
 
@@ -14,12 +14,12 @@ See my personnal [Pimous dev.](https://www.pimous.dev) projects in my pinned rep
 <a href="https://notion.so"><img src="https://cdn.simpleicons.org/notion" height="48" width="48" alt="Notion logo."/></a>&nbsp;&nbsp;
 <a href="https://www.figma.com"><img src="https://cdn.simpleicons.org/figma" height="48" width="48" alt="Figma logo."/></a>
 
-<a href="https://www.buymeacoffee.com/Xibitol"><img src="https://img.buymeacoffee.com/button-api?text=Buy me a byte&slug=Xibitol&button_colour=ff9800&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00" height="40px" alt="Buy me a coffee button."/></a>
+<a href="https://www.buymeacoffee.com/Xibitol"><img src="https://img.buymeacoffee.com/button-api?text=Buy+me+a+byte&slug=Xibitol&button_colour=ff9800&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00" height="40px" alt="Buy me a coffee button."/></a>
 </div>
 
 ## Other projects
-- Founder and Developer at [Pimous Dev.](https://pimous.dev).
-- Director and Developer at [SBP Games](https://sbpgames.fr).
+- Founder and Developer at [Pimous Dev.](https://www.pimous.dev).
+- Director and Developer at [SBP Games](https://www.sbpgames.fr).
 
 
 ## What I do and work with
