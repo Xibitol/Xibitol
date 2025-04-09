@@ -63,7 +63,7 @@ See my personnal projects in my repositories/gists and projects I worked on at [
 <a href="https://www.opengl.org"><img src="https://cdn.simpleicons.org/opengl" height="48" width="48" alt="OpenGL logo."/></a>&nbsp;&nbsp;
 <a href="https://www.vulkan.org"><img src="https://cdn.simpleicons.org/vulkan" height="48" width="48" alt="Vulkan logo."/></a>&nbsp;&nbsp;
 <a href="https://www.spigotmc.org"><img src="https://cdn.simpleicons.org/spigotmc" height="48" width="48" alt="SpigotMC logo."/></a>&nbsp;&nbsp;
-<a href="https://www.papermc.iohttps://www.raspberrypi.com/"><img src="https://www.papermc.io/assets/logo/256x.png" height="48" width="48" alt="PaperMC logo."/></a>&nbsp;&nbsp;
+<a href="https://www.papermc.io"><img src="https://www.papermc.io/assets/logo/256x.png" height="48" width="48" alt="PaperMC logo."/></a>&nbsp;&nbsp;
 <a href="https://www.minecraftforge.net"><img src="https://avatars.githubusercontent.com/u/1390178?s=200&v=4" height="48" width="48" alt="Forge logo."/></a>&nbsp;&nbsp;
 <a href="https://gmod.facepunch.com"><img src="https://raw.githubusercontent.com/PrikolMen/gmod_icons/main/logo.svg" height="48" width="48" alt="Garry's Mod logo."/></a>&nbsp;&nbsp;
 <a href="https://www.fivem.net"><img src="https://cdn.simpleicons.org/fivem" height="48" width="48" alt="FiveM logo."/></a>&nbsp;&nbsp;
