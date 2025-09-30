@@ -1,7 +1,7 @@
 <div align="center">
 
 # Xibitol
-**A developer in too many domains** and the founder of [Pimous dev.](https://www.pimous.dev) development studio<br>(We are on [github.com/PimousDev](https://www.github.com/PimousDev) as well).
+**A software engineer and a developer in too many domains** and the founder of [Pimous dev.](https://www.pimous.dev) development studio<br>(We are on [github.com/PimousDev](https://www.github.com/PimousDev) as well).
 
 <a href="https://www.codewars.com/users/Xibitol"><img src="https://www.codewars.com/users/Xibitol/badges/micro" alt="Codewars stats." height="25px"></a>
 
